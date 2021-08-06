@@ -1,1 +1,3 @@
-# triangulo-class-2.0
+# Triangulo-class-2.0
+
+exercício melhorado
